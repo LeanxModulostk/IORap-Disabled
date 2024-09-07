@@ -1,0 +1,7 @@
+id=IORap
+name=IORap Disabled [Ram Fix]
+version=v4
+versionCode=4
+author=@LeanHijosdesusMadres [telegram]
+description=Reduce ram and cpu overhead by disabling IORap which preloads applications (which makes no noticeable difference)
+support=https://t.me/modulostk
